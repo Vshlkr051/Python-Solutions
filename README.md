@@ -1,2 +1,2 @@
-# Python-Soultions
+# Python-Solutions
 Basic Solutions in Python Language
