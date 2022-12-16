@@ -1,5 +1,5 @@
 Hello everyone!
-Welcome to the world of Python Solutions.
-Here you can find easy solutions with code explanation.
+This repository is meant for easy and understandable Python solutions.
 
-Stay tuned for further update..
+P.S : Explanation will be provided.
+Stay tuned for more updates.
