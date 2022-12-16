@@ -1,0 +1,5 @@
+Hello everyone!
+Welcome to the world of Python Solutions.
+Here you can find easy solutions with code explanation.
+
+Stay tuned for further update..
